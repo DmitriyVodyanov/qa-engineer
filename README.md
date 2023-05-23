@@ -2,9 +2,6 @@
 I'm a full stack qa engineer...
 
 ## Инструменты и технологии
-Блок для инструментов. Вы можете использовать мои иконки или создать папку у себя в проекте
-
-
 <p align="left">
 <a href="https://proxyman.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Proxyman.png" alt="Proxyman" width="50" height="50" /> 
@@ -34,5 +31,5 @@ I'm a full stack qa engineer...
 
 ## Мои контакты
 
-[![Linkedin: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/дмитрий-водянов-71158b16b)
+[![Linkedin: dvodyanov](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/дмитрий-водянов-71158b16b)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/VodyanovDmitriy)
